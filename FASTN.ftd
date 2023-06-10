@@ -6,6 +6,7 @@ favicon: /-/vivek-raj-gupta-2002.github.io/portfolio/favicon.ico
 
 -- fastn.dependency: fastn-community.github.io/doc-site as ds
 -- fastn.dependency: fastn-community.github.io/footer
+-- fastn.dependency: vivek-raj-gupta-2002.github.io/ui-packages
 
 -- fastn.auto-import: ds
 -- fastn.auto-import: vivek-raj-gupta-2002.github.io/portfolio/FASTN/my-ds
